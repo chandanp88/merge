@@ -1,1 +1,2 @@
 this the code of file 3
+add new file in 3 in using master
