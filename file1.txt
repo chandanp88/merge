@@ -1,2 +1,3 @@
 print this is file 1 content
 updating code in release
+git conflict in master
